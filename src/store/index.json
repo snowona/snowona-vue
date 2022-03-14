@@ -1,0 +1,34 @@
+{
+  "section1": {
+    "content": []
+  },
+  "section2": {
+    "title": [],
+    "content": [
+      {
+        "src": "/statics/img/wallhaven1.png",
+        "title": "wallhaven1"
+      },
+      {
+        "src": "/statics/img/wallhaven2.png",
+        "title": "wallhaven2"
+      },
+      {
+        "src": "/statics/img/wallhaven3.png",
+        "title": "wallhaven3"
+      },
+      {
+        "src": "/statics/img/wallhaven4.png",
+        "title": "wallhaven4"
+      },
+      {
+        "src": "/statics/img/wallhaven5.png",
+        "title": "wallhaven5"
+      }
+    ]
+  },
+  "section3": {
+    "title": [],
+    "content": []
+  }
+}
